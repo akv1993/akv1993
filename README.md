@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gaurav Shukla | Quantum Optics Researcher</title>
+  <title>Anil Kumar Vishwkarma | Theoretical Spectroscopy & Molecular Modeling Researcher</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -104,14 +104,14 @@
 </head>
 <body>
   <header>
-    <h1>Gaurav Shukla</h1>
+    <h1>Anil Kumar Vishwkarma</h1>
     <p>Ph. D., Department of Physics, Institute of Science<br>Banaras Hindu University, Varanasi-221005, Uttar Pradesh, India</p>
   </header>
 
   <div class="container">
     <div class="section">
       <h2>Welcome!</h2>
-      <p>Welcome to my academic homepage! I did my Ph. D. from Banaras Hindu University (BHU) under the supervision of Prof. Devendra Kumar Mishra, focusing on quantum optics, nonlinear interactions, and quantum metrology. This page highlights my research, publications, and professional journey.</p>
+      <p>Welcome to my academic homepage! I did my Ph. D. from Banaras Hindu University (BHU) under the supervision of Prof. Amit Pathak, focusing on Theoretical Spectroscopy & Molecular Modeling. This page highlights my research, publications, and professional journey.</p>
     </div>
 
     <div class="profile">
@@ -122,10 +122,10 @@
     <div class="section">
       <h2>Research Interests</h2>
       <ul>
-        <li>Quantum interferometry and metrology</li>
-        <li>Non-degenerate two-photon absorption</li>
-        <li>Nonlinear quantum optics</li>
-        <li>Squeezed light, Schrödinger-cat states</li>
+        <li>Theoretical Spectroscopy</li>
+        <li>Molecular Modeling</li>
+        <li>Electronic Structure Calculation</li>
+        <li>...</li>
         <li>Quantum information and sensing</li>
       </ul>
     </div>
@@ -134,8 +134,8 @@
       <h2>Education</h2>
       <ul>
         <li>2019–2025: Ph.D. in Physics (BHU, India)</li>
-        <li>2016–2018: M.Sc. in Physics (University of Allahabad)</li>
-        <li>2013–2016: B.Sc. in Physics & Mathematics (TDPG College, VBS Purvanchal University)</li>
+        <li>2013–2015: M.Sc. in Physics (University of Allahabad)</li>
+        <li>2010–2013: B.Sc. in Physics, Chemistry & Mathematics (University of Allahabad)</li>
       </ul>
     </div>
 
